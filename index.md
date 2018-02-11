@@ -1,4 +1,4 @@
-### <img src="think.jpeg"/>
+### Welcome to Macro's home page
 Macro is a 11 year working experience software engineer, mainly work on design architecture, business logic implement and improvement of the workflow. 
 
 ### Technology Stacks
