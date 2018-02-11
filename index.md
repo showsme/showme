@@ -1,6 +1,6 @@
-### <img src="think.jpeg"/>
+### <div><img src="think.jpeg"/>
 Macro is a 11 year working experience software engineer, mainly work on design architecture, business logic implement and improvement of the workflow. 
-
+</div>
 ### Technology Stacks
 We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
 
